@@ -1,8 +1,8 @@
 [
-{"place":"六福村","address": "xxx"},
+{"name":"漢豬","idiot": "Yes 超87"},
 {
-    "place":"劍湖山世界","address": "000"
+    "name":"小豬","idiot": "Yes 普通87"
 },
 {
-    "place":"義大遊樂世界","address": "***"
+    "name":"大豬","idiot": "NO 不是87"
 }]
